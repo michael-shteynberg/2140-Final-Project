@@ -1,10 +1,11 @@
 End-to-End Symmetric Encryption Tool:
 A simple, user-friendly Python application for encrypting and decrypting text messages using symmetric encryption with a graphical user interface.
+
 Authors
 
-Jack Sprague
-Ben Yaker
-Michael Shteynberg
+- Jack Sprague
+- Ben Yaker
+- Michael Shteynberg
 
 Course: Computing Fundamentals - 2140, Northeastern University
 
