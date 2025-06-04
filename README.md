@@ -1,2 +1,5 @@
-# 2140-Final-Project
-End-to-end symmetric encryption tool
+End-to-end symmetric encryption tool made by:
+
+- Jack Sprague
+- Ben Yaker
+- Michael Shteynberg
